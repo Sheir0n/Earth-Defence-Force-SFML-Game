@@ -8,10 +8,10 @@ Gracz wybiera uzbrojenie do swojego statku, które jest w stanie zakupić zarabi
 Gra została napisana w języku C++ wykorzystując środowisko graficzne SFML. Cała oprawa graficzna oraz animacje są autorskie, natomiast efekty dźwiękowe pochodzą z darmowych bibliotek online.
 
 
-![Ekran startowy](screenshots/ss1.png)
+![Ekran startowy](screenshots/ss1.png?)
 
-![Ekran profilu gracza](screenshots/ss2.png)
+![Ekran profilu gracza](screenshots/ss2.png?)
 
-![Ekran gry](screenshots/ss3.png)
+![Ekran gry](screenshots/ss3.png?)
 
-![Ekran Game Ober](screenshots/ss4.png)
+![Ekran Game Ober](screenshots/ss4.png?)
