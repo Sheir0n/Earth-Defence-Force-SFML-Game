@@ -1,4 +1,6 @@
-![Logo](screenshots/logo.png)
+<p align="center">
+  <img src="screenshots/logo.png" alt="Logo"/>
+</p>
 
 „Earth Defence Force 0-1” jest jednoosobową strzelanką bullethell. Jest to gra zręcznościowa, w której gracz wciela się w rolę pilota statku kosmicznego i odpiera kolejne fale przeciwników z rosnącym poziomem trudności. 
 Gracz wybiera uzbrojenie do swojego statku, które jest w stanie zakupić zarabiając walutę niszcząc przeciwników.
